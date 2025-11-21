@@ -2,7 +2,7 @@ CSE233: Process Management and C Development
 
 Overview
 
-This repository contains the solution for your Operating Systems assignment. It demonstrates three core concepts:
+This repository contains the solution for the Operating Systems assignment. It demonstrates three core concepts:
 
 Process Creation using the fork() system call.
 
@@ -67,7 +67,7 @@ What to Expect
 
 Process Creation (fork())
 
-./process_creation
+./process
 
 Two lines showing two different PIDs (Parent and Child).
 
