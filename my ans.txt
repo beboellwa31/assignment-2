@@ -1,0 +1,12 @@
+codes explanation
+1-the fork :
+the fork creates a copy of the current process if the fork works successfully the function returns the process id ,if the fork failed it returns -1
+2- file1, file2 :
+the function hello is defined in file1 but it is called in file2 
+3-simple program :
+this simple program is an example of a simple input output library usage
+job of the linker :
+the linker combines every piece of the code and libraries into a single executable file
+job of the loader :
+the loader takes the executable file from the linker and prepare it for the execution
+
